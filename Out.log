@@ -1,0 +1,10 @@
+13:45:35.300 [main] INFO  testcases.FacebookLogin - Opened Url
+13:45:35.626 [main] INFO  testcases.FacebookLogin - Username taken from excel sheet and stored in uname
+13:45:35.627 [main] INFO  testcases.FacebookLogin - Password taken from excel sheet and stored in pwd
+13:45:35.689 [main] INFO  testcases.FacebookLogin - Username entered in username field
+13:45:35.767 [main] INFO  testcases.FacebookLogin - Password entered in the password field
+14:42:30.673 [main] INFO  testcases.FacebookLogin - Opened Url
+14:42:31.057 [main] INFO  testcases.FacebookLogin - Username taken from excel sheet and stored in uname
+14:42:31.057 [main] INFO  testcases.FacebookLogin - Password taken from excel sheet and stored in pwd
+14:42:31.146 [main] INFO  testcases.FacebookLogin - Username entered in username field
+14:42:31.225 [main] INFO  testcases.FacebookLogin - Password entered in the password field
